@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyDailyWash</string>
+    <string name="facebook_app_id">2777784492544665</string>
+    <string name="fb_login_protocol_scheme">fb2777784492544665</string>
+</resources>
